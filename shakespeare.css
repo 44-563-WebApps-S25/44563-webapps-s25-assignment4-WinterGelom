@@ -5,3 +5,8 @@
 .shollaw {color: green}
 .slender {color: blue}
 .sir_hugh_evans {color: red}
+
+/*Table Style*/
+table {text-align: center; color: yellow; border-style: dashed; border-spacing: 0px; background-color: lightgray}
+tr:nth-child(even) {background-color: grey;}
+td, th {border-style: solid; padding: 5px; border-color: black}
