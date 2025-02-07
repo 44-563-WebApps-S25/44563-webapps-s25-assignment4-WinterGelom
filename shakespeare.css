@@ -1,0 +1,7 @@
+.speech {color:black; font-size: medium; font-family: Arial, Helvetica, sans-serif;}
+.stage-direction {background-color: gold; color:black; font-size: small; font-family: 'Times New Roman', Times, serif;}
+.name {color:black; font-size: large; font-family: Arial, Helvetica, sans-serif;}
+.stage-direction:hover {background-color: aqua; color:red}
+.shollaw {color: green}
+.slender {color: blue}
+.Sir_hugh_evans {color: red}
